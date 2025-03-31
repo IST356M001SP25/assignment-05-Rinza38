@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I had a difficult time doing the transform section of this assignment I feel I need to further practice and understand the coding way of breaking down the steps into a way that I can just translate it to python code.
